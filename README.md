@@ -1,4 +1,4 @@
-# Custom OpenWRT firmware for NanoPi R2S
+# Custom OpenWRT firmware for NanoPi R4S
 
 ## Packages Summary
 
